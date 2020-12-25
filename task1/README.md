@@ -8,4 +8,5 @@ Use as follows
 python OCR.py —path=“path_to_image”
 ```
 
+![solution](https://github.com/lukaborec/application-test/blob/main/task1/shapes.png)
 ![solution](https://github.com/lukaborec/application-test/blob/main/task1/solution.png)
