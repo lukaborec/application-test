@@ -8,4 +8,4 @@ Use as follows
 python OCR.py —path=“path_to_image”
 ```
 
-![solution](“solution.png”)
+![solution](“/solution.png”)
